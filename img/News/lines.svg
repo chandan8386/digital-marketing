@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1556" height="3240" viewBox="0 0 1556 3240">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e0e4eb" stop-opacity="0"/>
+      <stop offset="0.494" stop-color="#e0e4eb"/>
+      <stop offset="1" stop-color="#e0e4eb" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_228" data-name="Group 228" transform="translate(-180)" opacity="0.5">
+    <rect id="Rectangle_448" data-name="Rectangle 448" width="2" height="3240" transform="translate(180)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_449" data-name="Rectangle 449" width="2" height="3240" transform="translate(310)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_451" data-name="Rectangle 451" width="2" height="3240" transform="translate(1734)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_452" data-name="Rectangle 452" width="2" height="3240" transform="translate(1605)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_453" data-name="Rectangle 453" width="2" height="3240" transform="translate(1475)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_454" data-name="Rectangle 454" width="2" height="3240" transform="translate(1346)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_455" data-name="Rectangle 455" width="2" height="3240" transform="translate(1216)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_456" data-name="Rectangle 456" width="2" height="3240" transform="translate(1087)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_457" data-name="Rectangle 457" width="2" height="3240" transform="translate(957)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_458" data-name="Rectangle 458" width="2" height="3240" transform="translate(828)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_459" data-name="Rectangle 459" width="2" height="3240" transform="translate(698)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_460" data-name="Rectangle 460" width="2" height="3240" transform="translate(569)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_461" data-name="Rectangle 461" width="2" height="3240" transform="translate(439)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
